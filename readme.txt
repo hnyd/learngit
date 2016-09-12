@@ -3,3 +3,4 @@ add somethings
 add gl
 Git tracks changes
 Creating a new branch
+Creating is quick AND simple
